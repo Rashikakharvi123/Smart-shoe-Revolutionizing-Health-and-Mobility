@@ -4,4 +4,4 @@ We used sensors inside the shoes to measure foot pressure and track how a person
 
 We also created features like alerts to warn about bad posture or risky movements. This helped users become more aware of their habits and avoid injuries.
 
-Overall, I worked on both the hardware and software parts — setting up the sensors and microcontroller, and also developing the secure website that displayed the data to the use
+Overall, I worked on both the hardware and software parts — setting up the sensors and microcontroller, and also developing the secure website that displayed the data to the user.
